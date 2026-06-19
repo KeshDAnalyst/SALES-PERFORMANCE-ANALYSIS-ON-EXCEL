@@ -1,7 +1,9 @@
 📊SALES PERFORMANCE DASHBOARD ANALYSIS
 
 Interactive Sales Performance Dashboard built in Microsoft Excel using data cleaning, Pivot Tables, KPI cards, Pivot Charts, and Slicers to analyze revenue, profit, customer contribution, regional performance, and product performance.
-##Dashboard https://github.com/KeshDAnalyst/SALES-PERFORMANCE-ANALYSIS-ON-EXCEL/commit/2c4caee70f55bd02f885c3d7765a05741aec51e5
+
+<img width="1804" height="871" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/814777eb-4b23-4a37-8961-5fe5488593ab" />
+
 
 Project Overview
 
@@ -125,7 +127,7 @@ Microsoft Excel
 
 * Author
 
-Adediran Michael Oluwaseyi
+Adediran Michael Oluwaseyi(KeshDAnalyst)
 
 Data Analyst | Project Manager | Virtual Assistant
 
